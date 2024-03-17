@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "fitness",
+    "id": "65f6cbfdbae9a023c57dcb7a",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\hp\\Desktop\\collage project\\src\\components",
+    "screensPath": "c:\\Users\\hp\\Desktop\\collage project\\src\\pages"
+  }
+}

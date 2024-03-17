@@ -1,0 +1,257 @@
+.classes-child {
+  align-self: stretch;
+  height: 107px;
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  display: none;
+}
+.classes-inner {
+  align-self: stretch;
+  height: 107px;
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  z-index: 2;
+}
+.classes6 {
+  margin: 0;
+  height: 46px;
+  width: 488px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.classes-wrapper {
+  width: 1354px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.yoga-training {
+  height: 55px;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gym-training {
+  width: 344px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-14xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.karate-training {
+  width: 334px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-0) var(--padding-9xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent53 {
+  height: 321px;
+  width: 418px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-17xl) var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: var(--gap-mid);
+  max-width: 100%;
+}
+.running-training-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-33xl);
+}
+.rectangle-parent54 {
+  height: 316px;
+  width: 382px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.frame-parent22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.frame-parent21 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 14.4px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.classes-inner1 {
+  width: 1428px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-12xl) 30.399999999999977px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-maroon);
+  font-family: var(--font-inter);
+}
+.training-banners-icon {
+  align-self: stretch;
+  height: 249px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.training-banners-parent {
+  height: 324px;
+  width: 382px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.rectangle-parent55 {
+  height: 316px;
+  width: 418px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-17xl) var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.weight-loss-training-wrapper {
+  width: 358px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-0) 40px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent56 {
+  height: 316px;
+  width: 382px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.frame-parent23 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.classes-inner2 {
+  width: 1428px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.classes5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) 75px;
+  box-sizing: border-box;
+  gap: 51.6px;
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 1050px) {
+  .frame-parent22 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .frame-parent23 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .classes6 {
+    font-size: var(--font-size-10xl);
+  }
+
+  .yoga-training {
+    font-size: var(--font-size-lgi);
+  }
+
+  .running-training-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .classes6 {
+    font-size: var(--font-size-19xl);
+  }
+
+  .classes5 {
+    gap: var(--gap-7xl);
+  }
+}
